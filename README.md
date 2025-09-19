@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 cyber security Projects:</h2>
 
-- <b>vulner</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>vuln_yab</b>
+  - [Praciting DS & Algos in Python](https://github.com/Eliphaz21/Vuln_yab)
 
 
 <h2>📺 FUll stack developer projects</h2>
