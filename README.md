@@ -21,8 +21,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>😄contact with me: with this socialmedia📫</h2>
-   <br/><a href="https://www.linkedin.com/in/yeabsra-andinet-a5605521b/">linkedin</a>, <a href="">twitter </a>,
+<h2>😄contact with me: with this socialmedia📫</h2> <br/><a href="https://www.linkedin.com/in/yeabsra-andinet-a5605521b/">linkedin</a>, <a href="">twitter </a>,
 <!--
 
 Here are some ideas to get you started:
