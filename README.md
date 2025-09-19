@@ -1,4 +1,4 @@
-<h1>Hi, I'm yeabsra! <br/><a href="https://github.com/joshmadakor1">software engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecuriy,pentration tester and BUG Bounty hunter </a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm yeabsra! <br/><a href="https://github.com/Eliphaz21">software engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecuriy,pentration tester and BUG Bounty hunter </a>, <a href="https://www.youtube.com/@yabujc3534">problem solver and logical thinker</a></h1>
 
 <h2>👨‍💻 cyber security Projects:</h2>
 
@@ -34,7 +34,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/@yabujc3534
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
