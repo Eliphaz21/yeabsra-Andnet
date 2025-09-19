@@ -3,7 +3,14 @@
 <h2>👨‍💻 cyber security Projects:</h2>
 
 - <b>vuln_yab</b>
-  - [Praciting DS & Algos in Python](https://github.com/Eliphaz21/Vuln_yab)
+  - [Vuln_yab - Python-Based Vulnerability Scanner
+
+Welcome to **Vuln_yab** — a powerful and educational open-source vulnerability scanner built in Python.
+
+This repository includes **two versions** of the scanner:
+
+1. **Basic Scanner** – Great for learning port scanning fundamentals.
+2. **Advanced Scanner** – A comprehensive vulnerability assessment tool that integrates Nmap, CVE lookups, PDF reporting, and risk scoring](https://github.com/Eliphaz21/Vuln_yab)
 
 
 <h2>📺 FUll stack developer projects</h2>
